@@ -1,6 +1,6 @@
 # bootstrap-study
 
-##### [Today]
+##### [TODAY]
 - bs_layout : bootstrap layout clone coding
 
 ##### [NEXT]
