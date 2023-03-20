@@ -1,5 +1,7 @@
 # bootstrap-study
 
-##### [23-03-20 MON]
+##### [Today]
 - bs_layout : bootstrap layout clone coding
+
+##### [NEXT]
 - 유틸리티 습득 필요... (https://getbootstrap.com/docs/5.3/utilities)
